@@ -1,8 +1,15 @@
 # Trapezoidal Fuzzy Number
 A library to work with trapezoidal fuzzy numbers in Python\
-Suppose that we want to create A and B, which are Trapezoidal Fuzzy Numbers:
+First, you need to install the package:
+```ruby
+pip install Trapezoidal-Fuzzy-Number
+```
+When done, you can import it:
 ```ruby
 from Trapezoidal_Fuzzy_Number import TrapezoidalFuzzyNumber
+```
+Suppose that we want to create A and B, which are Trapezoidal Fuzzy Numbers:
+```ruby
 A = TrapezoidalFuzzyNumber([1, 2, 3, 4])
 B = TrapezoidalFuzzyNumber([2, 3, 4, 5])
 ```
