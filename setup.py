@@ -2,7 +2,7 @@ import setuptools
   
 setuptools.setup( 
     name='Trapezoidal_Fuzzy_Number',
-    version='1.0',
+    version='1.1',
     author='Shayan Firouzian',
     packages=['Trapezoidal_Fuzzy_Number'],
     description='A library to work with trapezoidal fuzzy numbers',
