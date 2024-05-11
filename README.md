@@ -8,25 +8,36 @@ B = TrapezoidalFuzzyNumber([2, 3, 4, 5])
 ```
 
 # Addition
+```ruby
 result_add = A + B
-print(result_add)  # Output as a list
+print(result_add)
+```
 
 # Subtraction
+```ruby
 result_sub = A - B
-print(result_sub)  # Output as a list
+print(result_sub)
+```
 
 # Multiplication
+```ruby
 result_mul = A * B
-print(result_mul)  # Output as a list
+print(result_mul)
+```
 
 # Multiplication by a scalar
-scalar = 2.5
-result_scalar_mul = scalar * A
-print(result_scalar_mul)  # Output as a list
+```ruby
+result_scalar_mul = 2.5 * A
+print(result_scalar_mul)
+```
 
 # Division
+```ruby
 result_div = A / B
-print(result_div)  # Output as a list
+print(result_div)
+```
 
 # Division by a scalar
+```ruby
 result_scalar_div = A // 3
+```
