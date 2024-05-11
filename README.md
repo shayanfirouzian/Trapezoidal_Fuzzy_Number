@@ -7,37 +7,37 @@ A = TrapezoidalFuzzyNumber([1, 2, 3, 4])
 B = TrapezoidalFuzzyNumber([2, 3, 4, 5])
 ```
 
-# Addition
+# Addition of two Trapezoidal Fuzzy Numbers
 ```ruby
 result_add = A + B
 print(result_add)
 ```
 
-# Subtraction
+# Subtraction of two Trapezoidal Fuzzy Numbers
 ```ruby
 result_sub = A - B
 print(result_sub)
 ```
 
-# Multiplication
+# Multiplication of two Trapezoidal Fuzzy Numbers
 ```ruby
 result_mul = A * B
 print(result_mul)
 ```
 
-# Multiplication by a scalar
-```ruby
-result_scalar_mul = 2.5 * A
-print(result_scalar_mul)
-```
-
-# Division
+# Division of two Trapezoidal Fuzzy Numbers
 ```ruby
 result_div = A / B
 print(result_div)
 ```
 
-# Division by a scalar
+# Multiplication of a Trapezoidal Fuzzy Number by a scalar
+```ruby
+result_scalar_mul = 2.5 * A
+print(result_scalar_mul)
+```
+
+# Division  of a Trapezoidal Fuzzy Number by a scalar
 ```ruby
 result_scalar_div = A // 3
 ```
