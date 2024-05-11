@@ -1,9 +1,11 @@
 # Trapezoidal_Fuzzy_Number
 A library to work with trapezoidal fuzzy numbers
 Suppose that we want to create A and B, which are Trapezoidal Fuzzy Numbers:
+'''
 from Trapezoidal_Fuzzy_Number import TrapezoidalFuzzyNumber
 A = TrapezoidalFuzzyNumber([1, 2, 3, 4])
 B = TrapezoidalFuzzyNumber([2, 3, 4, 5])
+'''
 
 # Addition
 result_add = A + B
