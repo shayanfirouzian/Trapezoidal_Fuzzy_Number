@@ -38,20 +38,20 @@ result_div = A / B
 print(result_div)
 ```
 
-# Multiplication of a Trapezoidal Fuzzy Number by a scalar
+# Multiplication of a Trapezoidal Fuzzy Number by a Real Number
 ```ruby
-result_scalar_mul = 2.5 * A
-print(result_scalar_mul)
+result_real_by_fuzzy_mul = 2.5 * A
+print(result_real_by_fuzzy_mul)
 ```
 
-# Division  of a Trapezoidal Fuzzy Number by a scalar
+# Division  of a Trapezoidal Fuzzy Number by a Real Number
 ```ruby
-result_scalar_div = A // 3
-print(result_scalar_div)
+result_fuzzy_by_real_div = A // 3
+print(result_fuzzy_by_real_div)
 ```
 
-# Division of a scalar by a Trapezoidal Fuzzy Number
+# Division of a Real Number by a Trapezoidal Fuzzy Number
 ```ruby
-result_scalar_div = 2.5 / A
-print(result_scalar_div)
+result_real_by_fuzzy_div = 2.5 / A
+print(result_real_by_fuzzy_div)
 ```
