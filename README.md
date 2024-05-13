@@ -52,6 +52,6 @@ print(result_scalar_div)
 
 # Division of a scalar by a Trapezoidal Fuzzy Number
 ```ruby
-result_scalar_mul = 2.5 / A
+result_scalar_div = 2.5 / A
 print(result_scalar_div)
 ```
